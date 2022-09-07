@@ -52,7 +52,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mukul-ramdev-328605195/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="ramdevmukul800@gmail.com" href="mailto:ramdevmukul800@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-  <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="https://mukulportfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <h2>📊 Github Stats</h2> <h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
 <br/>
