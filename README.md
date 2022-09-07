@@ -6,7 +6,7 @@
    
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
-- 🌱 I’m currently learning *Data Structures and Algorithms.*
+- 🌱 I’m MERN Stack Developer*
 
 - 📫 How to reach me *ramdevmukul800@gmail.com*
 
