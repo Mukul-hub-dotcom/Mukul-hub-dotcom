@@ -12,7 +12,16 @@
 
 
 
+
+<h3><i>Connect me with !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mukul-ramdev-328605195/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a title="ramdevmukul800@gmail.com" href="mailto:ramdevmukul800@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+  <a href="https://mukulportfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+</p>
+
 <br/>
+
 
 <h2><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
 
@@ -48,20 +57,16 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </p>
-<h3><i>Connect me with !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mukul-ramdev-328605195/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a title="ramdevmukul800@gmail.com" href="mailto:ramdevmukul800@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-  <a href="https://mukulportfolio.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
-</p>
-<h2>📊 Github Stats</h2> <h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
-<br/>
+ <br />
+ <h2>📊 Github Stats</h2> <h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
+
 
 <div>
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Mukul-hub-dotcom&show_icons=true" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul-hub-dotcom&layout=compact" />
 </div>
-<br />
+ <br />
+ 
 <img src="https://activity-graph.herokuapp.com/graph?username=Mukul-hub-dotcom&theme=minimal" alt="activitygraph" />
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukul-hub-dotcom" alt=""/></p>
