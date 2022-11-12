@@ -7,8 +7,9 @@
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
 
 - 🌱 I’m MERN Stack Developer
-
-- 📫 Keen to learn new technologies
+- 📫 I've done B.Tech(C.S.E) from BMIET(GGSIPU)
+- 🔲 I'm looking to collaborate on web project
+- 📫 I love to read tech related articles on DEV and Keen to learn new skills
 
 
 
