@@ -9,7 +9,7 @@
 - 🌱 I’m MERN Stack Developer
 - 📫 I've done B.Tech(C.S.E) from BMIET(GGSIPU)
 - 🔲 I'm looking to collaborate on web project
-- 📫 I love to read tech related articles on DEV and Keen to learn new skills
+- 📫 I love to read tech related articles on DEV and keen to learn new skills
 
 
 
